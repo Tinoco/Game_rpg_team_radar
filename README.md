@@ -33,11 +33,11 @@ Rpg Game Atributes of Team Comparative Stats
 <pre><code>pip install plotly
 </code></pre>
 
-## Clone Ticapsoriginal_website_score_overview repository:
+## Clone Game_rpg_team_radar repository:
 <pre><code> git clone https://github.com/Tinoco/Game_rpg_team_radar.git
 </code></pre> 
 
-## run Ticapsoriginal website overview:
+## run Game rpg team radar website overview:
 <pre><code> python herosystem_team_stats.py
 </code></pre>
 
