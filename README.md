@@ -37,7 +37,7 @@ Rpg Game Atributes of Team Comparative Stats
 <pre><code> git clone https://github.com/Tinoco/Game_rpg_team_radar.git
 </code></pre> 
 
-## run Game rpg team radar website overview:
+## run Game rpg team radar chart stats view:
 <pre><code> python herosystem_team_stats.py
 </code></pre>
 
