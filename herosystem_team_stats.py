@@ -6,7 +6,7 @@ atributes = ['Attack', 'Agility', 'Magic Defence',
 atributes = [*atributes, atributes[0]]
 
 paladin_1 = [35, 25, 23, 18, 23]
-mage_2 = [15, 15, 23, 23, 18]
+mage_2 = [15, 15, 30, 30, 18]
 archer_3 = [23, 35, 15, 15, 23]
 paladin_1 = [*paladin_1, paladin_1[0]]
 mage_2 = [*mage_2, mage_2[0]]
