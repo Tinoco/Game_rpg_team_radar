@@ -14,9 +14,9 @@ archer_3 = [*archer_3, archer_3[0]]
 
 party = go.Figure(
     data=[
-        go.Scatterpolar(r=paladin_1, theta=atributes, name='Tristan'),
-        go.Scatterpolar(r=mage_2, theta=atributes, name='Joe'),
-        go.Scatterpolar(r=archer_3, theta=atributes, name='Tea')
+        go.Scatterpolar(r=paladin_1, theta=atributes, name='Ikki'),
+        go.Scatterpolar(r=mage_2, theta=atributes, name='Ikki'),
+        go.Scatterpolar(r=archer_3, theta=atributes, name='Ikki')
     ],
     layout=go.Layout(
         title=go.layout.Title(text='Rpg Game group comparison'),
